@@ -26,9 +26,14 @@ This repository contains valuable resources that shed light on our project's jou
 
 We invite you to explore these resources and gain insights into the intricacies of our project.
 
-## Contributions and Feedback
+## Project Team
 
-We welcome contributions, feedback, and collaboration. If you're interested in our work or have suggestions for improvement, please feel free to reach out and join us on this exciting journey.
+This project was made possible by the collaborative efforts of the following individuals:
+
+- **Avichay Hayne**
+- **Asaf Koren**
+- **Alon Reicher**
+
 
 ## License
 
